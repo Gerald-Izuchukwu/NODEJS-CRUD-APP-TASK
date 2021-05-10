@@ -41,3 +41,5 @@ This can be done by sending a DELETE request with "/delete/:id" just after the p
 the id is the id of the particular data that is to be deleted
 e.g. http://localhost:8002/delete/ad4782ghehgdh
 
+Github and Heroku hosted link
+https://agile-brushlands-84455.herokuapp.com/ | https://git.heroku.com/agile-brushlands-84455.git
